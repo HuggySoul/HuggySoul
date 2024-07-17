@@ -12,10 +12,10 @@
     <td style="vertical-align: top; padding: 10px;">
       <h3>💼 Looking to Collaborate On</h3>
       <ul>
-        <li>Open-source projects</li>
-        <li>Hackathons</li>
-        <li>Innovative web applications</li>
-        <li>Learning resources for developers</li>
+        <li>Open-source projects 🤝</li>
+        <li>Hackathons 💻</li>
+        <li>Innovative web applications 🚀</li>
+        <li>Learning resources for developers 🗂️</li>
       </ul>
     </td>
     <td style="vertical-align: top; padding: 10px;">
@@ -27,14 +27,15 @@
         <li>Camping 🚙</li>
       </ul>
     </td>
-		 <td style="vertical-align: top; padding: 10px;">
-      <h3>📫 How to Reach Me</h3>
-      <ul>
-        <li><a href="mailto:artem_fedchenko_2017@mail.ru">Email</a></li>
-        <li><a href="https://t.me/fedddchenko">Telegram</a></li>
-      </ul>
+    <td style="vertical-align: top; padding: 10px;">
+     <h3>📧 Contacts</h3>
+     <ul>
+      <li><a href="mailto:artem_fedchenko_2017@mail.ru">Email</a></li>
+      <li><a href="https://t.me/fedddchenko">Telegram</a></li>
+     </ul>
     </td>
   </tr>
 </table>
+
 <h3>⚡ Fun Fact</h3>
 <p>I love discovering new hobbies and interests. Currently, I'm studying pen-spinning and experimenting with new recipes in the kitchen.</p>
