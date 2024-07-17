@@ -1,3 +1,4 @@
+<img style="border-radius:15px" src="./city-landscape.png"/>
 <table>
   <tr>
     <td style="vertical-align: top; padding: 10px;">
