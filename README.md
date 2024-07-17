@@ -1,4 +1,3 @@
-<img style ="max-width: 900px" src="./work-text.jpg" />
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 
 <div style="flex: 1; min-width: 180px;">
@@ -35,7 +34,7 @@
   <h3>📫 How to Reach Me</h3>
   <ul>
     <li><a href="artem_fedchenko_2017@mail.ru">Email</a></li>
-    <li><a href=" https://t.me/fedddchenko">Telegram</a></li>
+    <li><a href="https://t.me/fedddchenko">Telegram</a></li>
   </ul>
 </div>
 
