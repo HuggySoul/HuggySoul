@@ -38,9 +38,6 @@
   </tr>
 </table>
 
-<h3>⚡ Fun Fact</h3>
-<p>I love discovering new hobbies and interests. Currently, I'm studying pen-spinning and experimenting with new recipes in the kitchen.</p>
-
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
