@@ -5,8 +5,8 @@
       <h3>🎓 Currently Learning</h3>
       <ul>
         <li>TypeScript</li>
-        <li>JavaScript</li>
         <li>React</li>
+        <li>Angular</li>
         <li>Algorithms</li>
       </ul>
     </td>
@@ -17,15 +17,6 @@
         <li>Hackathons 💻</li>
         <li>Innovative web applications 🚀</li>
         <li>Learning resources for developers 🗂️</li>
-      </ul>
-    </td>
-    <td style="vertical-align: top; padding: 10px;">
-      <h3>🚴‍♂️ Hobbies </h3>
-      <ul>
-        <li>Gym 🏋</li>
-        <li>Athletics 🏃‍♂️</li>
-        <li>Math ♾️</li>
-        <li>Camping 🚙</li>
       </ul>
     </td>
     <td style="vertical-align: top; padding: 10px;">
